@@ -54,8 +54,8 @@ text-align:center;
 }
 
 .animate__animated{
-font-size: clamp(25px, 4vw, 28px);
+font-size: clamp(48px, 4vw, 28px);
 color:rgb(255, 156, 222);
-white-space: nowrap;
-font-family: 'Pacifico', cursive;
+font-family: 'Dancing Script', cursive;
+font-weight: 600;
 }
